@@ -53,36 +53,36 @@ export const dofa =
     id: 1,
     type: "Debilidades",
     items: [
-      { id: 1, description: "Debilidad 1"},
-      { id: 2, description: "Debilidad 2"},
-      { id: 3, description: "Debilidad 3"},
+      { id: 1, description: "Poca visibilidad en redes sociales"},
+      { id: 2, description: "Defectos en los marcos de las tarjetas"},
+      { id: 3, description: "Contenido no actualizado"},
     ]
   },
   { 
     id: 2,
     type: "Opotunidades",
     items: [
-      { id: 1, description: "Oportunidad 1"},
-      { id: 2, description: "Oportunidad 2"},
-      { id: 3, description: "Oportunidad 3"},
+      { id: 1, description: "Crecer junto con el juego"},
+      { id: 2, description: "Facil enganche a fanáticos"},
+      { id: 3, description: "Sponsors gamers"},
     ]
   },
   { 
-    id: 2,
+    id: 3,
     type: "Fortalezas",
     items: [
-      { id: 1, description: "Fortaleza 1"},
-      { id: 2, description: "Fortaleza 2"},
-      { id: 3, description: "Fortaleza 3"},
+      { id: 1, description: "Gran comunidad disponible"},
+      { id: 2, description: "Poca oferta actual"},
+      { id: 3, description: "Gran variedad en artículos"},
     ]
   },
   { 
-    id: 2,
+    id: 4,
     type: "Amenazas",
     items: [
-      { id: 1, description: "Amenaza 1"},
-      { id: 2, description: "Amenaza 2"},
-      { id: 3, description: "Amenaza 3"},
+      { id: 1, description: "Competencia emergente"},
+      { id: 2, description: "Posible demanda de copyright por Riot"},
+      { id: 3, description: "Falta de domiciliarios"},
     ]
   },
 
